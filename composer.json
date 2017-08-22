@@ -13,5 +13,9 @@
             "email": "osh.321@hotmail.com"
         }
     ],
-    "type": "silverstripe-module"
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/framework": "~3.2",
+        "silverstripe/cms": "~3.2"
+    }
 }
