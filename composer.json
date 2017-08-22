@@ -1,0 +1,9 @@
+{
+    "name": "joshcronin/silverstripe-optimisedimages",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/joshcronin/silverstripe-optimisedimages"
+        }
+    ],
+}
