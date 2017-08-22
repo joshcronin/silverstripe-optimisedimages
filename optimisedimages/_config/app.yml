@@ -1,0 +1,9 @@
+OptimisedImage:
+  Use: 'Kraken'
+  SaveOriginal: true
+  OriginalDir: 'optimisedimages/images/'
+  Kraken:
+    api_key: 'YOUR API KEY'
+    api_secret: 'YOUR API SECRET'
+  TinyPNG:
+    api_key: 'YOUR API KEY'
