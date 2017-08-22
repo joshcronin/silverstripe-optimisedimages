@@ -5,5 +5,13 @@
             "type": "vcs",
             "url": "https://github.com/joshcronin/silverstripe-optimisedimages"
         }
-    ]
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Cronin",
+            "email": "osh.321@hotmail.com"
+        }
+    ],
+    "type": "silverstripe-module"
 }
