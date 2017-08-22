@@ -6,7 +6,7 @@ Automatically optimise images that are uploaded to the SilverStripe CMS
 Installation can be done either by composer or by manually downloading a release.
 
 ### Via Composer
-`composer require "joshcronin/silverstripe-optimisedimages"`
+`$ composer require joshcronin/silverstripe-optimisedimages`
 
 ### Manually
  1.  Download the module from [the releases page](https://github.com/joshcronin/silverstripe-optimisedimages/releases).
